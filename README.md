@@ -1,4 +1,5 @@
 Revised from GitLab repo used for Autonomous Vehicles class at JMU Fall 2019.
+Some intermediate development/testing files used during the project were not included in this repository for clarity. The functionality remains the same. 
 
 # Pose Tracking Documentation
 **Installation**
