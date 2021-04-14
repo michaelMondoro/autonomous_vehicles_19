@@ -1,3 +1,7 @@
+# Used to demonstrate trained model.
+# Loads keypoint data from output/ directory and projects it on video as well as model predictions.
+# Saves video with predictions and keyframe data to video file
+
 import json
 import numpy as np
 import cv2
@@ -5,7 +9,7 @@ import os
 import pickle
 
 # Load model
-f = open('full_dataset_model.sav','rb')
+f = open('../full_dataset_model.sav','rb')
 m = pickle.load(f)
 # Load keypoints
 keypoint_path = "output/"
