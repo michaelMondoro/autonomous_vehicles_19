@@ -1,6 +1,8 @@
-# Used to demonstrate trained model.
-# Loads keypoint data from output/ directory and projects it on video as well as model predictions.
-# Saves video with predictions and keyframe data to video file
+'''
+    Used to demonstrate trained model.
+    Loads keypoint data from output/ directory and projects it on video as well as model predictions.
+    Saves video with predictions and keyframe data to video file
+'''
 
 import json
 import numpy as np
