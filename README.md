@@ -9,6 +9,7 @@ The following is a list of requirements and dependencies for the JMU Autonomous 
 2.	Scikit-Learn – Documentation and installation instructions can be found at https://scikit-learn.org/stable/install.html. Should be able to use ‘pip install scikit-learn’. 
 3.	OpenCV – Documentation and installation instructions can be found at https://pypi.org/project/opencv-python/. ‘pip install opencv-python’
 The above requirements may also have some dependencies of their own (numpy, matlib etc). Instructions on installing these components can be found at the links above or during the installation process of the above software. 
+4. ROS - Documentation and installation instructions can be found at https://www.ros.org/install/ . 
 
 
 ‘pose_tracking.py’ is the entry point to the system. This file runs as a ROS node and should only be run from Auto Cart’s ROS launch file. Documentation for that can be found from the ROS Navigation team.
