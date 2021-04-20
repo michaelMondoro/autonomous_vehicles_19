@@ -11,5 +11,5 @@ The following is a list of requirements and dependencies for the JMU Autonomous 
 The above requirements may also have some dependencies of their own (numpy, matlib etc). Instructions on installing these components can be found at the links above or during the installation process of the above software. 
 
 
-‘pose_tracking.py’ runs as a ROS node and should only be run from Auto Cart’s ROS launch file. Documentation for that can be found from the ROS Navigation team.
+‘pose_tracking.py’ is the entry point to the system. This file runs as a ROS node and should only be run from Auto Cart’s ROS launch file. Documentation for that can be found from the ROS Navigation team.
  
