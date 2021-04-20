@@ -4,7 +4,7 @@ Some intermediate development/testing files used during the project were not inc
 # Pose Tracking Documentation
 **Installation**
 
-The following is a list of requirements and dependencies for the JMU Autonomous Vehicle prototype pose tracking system.
+The following is a list of requirements and dependencies for the JMU Autonomous Vehicle prototype safety system.
 1.	OpenPose – Documentation and installation instructions can be found at https://github.com/CMU-Perceptual-Computing-Lab/openpose. Make sure to compile OpenPose for Python. Instructions also found at the link above. 
 2.	Scikit-Learn – Documentation and installation instructions can be found at https://scikit-learn.org/stable/install.html. Should be able to use ‘pip install scikit-learn’. 
 3.	OpenCV – Documentation and installation instructions can be found at https://pypi.org/project/opencv-python/. ‘pip install opencv-python’
