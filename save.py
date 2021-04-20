@@ -4,7 +4,6 @@ import os
 
 '''
 Saves video to /output folder.
-Used to gather training data.
 
 version 10.20.19
 '''
